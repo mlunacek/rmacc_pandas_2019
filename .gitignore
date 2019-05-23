@@ -1,3 +1,4 @@
-notebooks/01_introduction/data/utils.py
-notebooks/01_introduction/data/boxplot.csv
-
+__pycache__
+.ipynb_checkpoints
+outputFiles
+notebooks/utils.py
