@@ -1,0 +1,11 @@
+name: rmacc_pandas
+dependencies:
+- python=3.6
+- pandas
+- jupyter
+- matplotlib
+- seaborn
+
+
+
+  
