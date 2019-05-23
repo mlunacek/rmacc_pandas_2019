@@ -10,5 +10,5 @@ If you already have `conda` installed, you can simply create a new conda environ
         source activate rmacc_pandas
         jupyter notebook
 
-If you need additional instructions, please see the INSTALL.md.
+If you need additional instructions, please see the [INSTALL.md](INSTALL.md).
 
